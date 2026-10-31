@@ -1,2 +1,2 @@
-# Art-Artisans
-This is my First git Repository
+# Art&Artisans
+This is my First Git Repository
